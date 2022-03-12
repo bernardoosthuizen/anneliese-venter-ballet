@@ -8,11 +8,9 @@ import './fonts/Sen/Sen-Regular.ttf';
 
 
 ReactDOM.render(
-  
     <React.StrictMode>
-    <App />
+      <App />
     </React.StrictMode>
-  
   ,
   document.getElementById('root')
 );

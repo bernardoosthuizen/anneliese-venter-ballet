@@ -4,6 +4,7 @@ import Header from './Components/Header';
 import Hero from './Components/Hero';
 import Founder from './Components/Founder';
 import Academy from './Components/Academy';
+import Contact from './Components/Contact';
 
 
 
@@ -17,6 +18,8 @@ function App() {
         <Hero />
         <Founder />
         <Academy />
+        {/* <ClassOffering /> */}
+        <Contact />
       </div>
     
       
